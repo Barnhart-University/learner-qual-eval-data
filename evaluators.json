@@ -1,0 +1,16 @@
+[
+  {
+    "qualCard": "safety-qual",
+    "evaluators": [
+      {"id": "evaluator-1", "name": "John Smith"},
+      {"id": "evaluator-2", "name": "Sarah Johnson"}
+    ]
+  },
+  {
+    "qualCard": "advanced-ops",
+    "evaluators": [
+      {"id": "evaluator-3", "name": "Mike Rodriguez"},
+      {"id": "evaluator-4", "name": "Emily Chen"}
+    ]
+  }
+]
