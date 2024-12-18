@@ -1,0 +1,12 @@
+[
+  {
+    "id": "safety-qual",
+    "name": "Safety Qualification",
+    "description": "Basic safety certification"
+  },
+  {
+    "id": "advanced-ops",
+    "name": "Advanced Operations",
+    "description": "Advanced operational qualification"
+  }
+]
